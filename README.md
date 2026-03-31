@@ -1,27 +1,24 @@
 # 📚 Library Management System (C++)
 
-## 🚀 Features
+## 🔹 Features
+- Add Book
+- View Books
+- Search Book
+- Delete Book
+- Issue Book
+- Return Book
+- File Storage (Data saved permanently)
 
-* Add Book
-* View Books
-* Search Book
-* Delete Book
-* Issue & Return Book
-* File Handling (Data Persistence)
-* Login System (Optional)
+## 🔹 Technologies Used
+- C++
+- File Handling
+- STL (Vector)
 
-## 🛠️ Technologies Used
+## 🔹 How to Run
+1. Compile:
+   g++ main.cpp -o library
+2. Run:
+   ./library
 
-* C++
-* OOP Concepts
-* File Handling
-
-## ▶️ How to Run
-
-1. Compile the code using any C++ compiler
-2. Run the program
-3. Follow the menu options
-
-## 📌 Author
-
+## 🔹 Author
 Kriti Ray
